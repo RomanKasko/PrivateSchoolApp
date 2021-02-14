@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/new/img">
+        <file>about.png</file>
+        <file>checkbox.png</file>
+        <file>checkbox-checked.png</file>
+        <file>color.png</file>
+        <file>copy.png</file>
+        <file>copy1.png</file>
+        <file>cut.png</file>
+        <file>editcopy.png</file>
+        <file>editcut.png</file>
+        <file>editpaste.png</file>
+        <file>editredo.png</file>
+        <file>editundo.png</file>
+        <file>exportpdf.png</file>
+        <file>filenew.png</file>
+        <file>fileopen.png</file>
+        <file>fileprint.png</file>
+        <file>filesave.png</file>
+        <file>Find.png</file>
+        <file>Font.png</file>
+        <file>format-indent-less.png</file>
+        <file>format-indent-more.png</file>
+        <file>new.png</file>
+        <file>open.png</file>
+        <file>paste.png</file>
+        <file>print.png</file>
+        <file>save.png</file>
+        <file>Save1.png</file>
+        <file>Save-as.png</file>
+        <file>textbold.png</file>
+        <file>textcenter.png</file>
+        <file>TextEditor.png</file>
+        <file>textitalic.png</file>
+        <file>textjustify.png</file>
+        <file>textleft.png</file>
+        <file>textright.png</file>
+        <file>textunder.png</file>
+        <file>zoomin.png</file>
+        <file>zoomout.png</file>
+    </qresource>
+</RCC>
