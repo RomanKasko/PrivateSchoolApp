@@ -1,0 +1,44 @@
+Ball	4	Assistant	421472	ball123	Mobile_Programming
+Boulware	10	Docent	100100	boulware123	Physics Internet_of_Things
+Bridgford	3	Laborant	283484	bridgford123	Algorithms
+Buckman	4	Lecturer	305845	buckman123	Data_Science
+Carman	7	Professor	239423	carman123	Electronics Mobile_Programming
+Carpenter	3	Laborant	282045	carpenter123	Teamwork
+Crigler	2	Assistant	122422	cringler123	English
+Dickey	7	Docent	754512	dickey123	Internet_of_Things
+Elam	5	Lecturer	346000	elam123	Computer_Vision Electronics
+Elsberry	10	Professor	475295	elsberry123	Human-Computer_Interaction Data_Science
+Emmons	9	Docent	412833	emmons123	Computer_Vision
+Flowers	16	Professor	460030	flowers123	Geometry Quality_Control
+Francis	2	Laborant	200000	francis123	Teamwork
+Gibbs	5	Lecturer	389059	gibbs123	Embedded_Systems
+Greenwell	3	Laborant	299999	greenwell123	Electronics
+Harshbarger	11	Professor	401233	harshbarger123	Declarative_Programming Algorithms Programming
+Hill	10	Lecturer	354681	hill123	History
+Hopson	6	Lecturer	460046	hopson123	Data_Science Mobile_Programming
+Jacob	4	Assistant	987548	jacob123	Quality_Control
+Kemper	9	Lecturer	549755	kemper123	Computer_Vision
+Kuntz	14	Docent	200100	kuntz123	Teamwork Declarative_Programming
+Lohnson	2	Lecturer	163842	lohnson123	History
+Marlow	6	Lecturer	312385	marlow123	Software_Management
+Mazda	2	Docent	123456	mazda123	Programming Algorithms
+Mitchell	6	Docent	897455	mitchell123	Human-Computer_Interaction
+Nickerman	4	Assistant	198765	nickerman123	Geometry
+Norris	4	Lecturer	247289	norris123	Web_Programming English
+Nugent	10	Lecturer	435422	nugent123	Operating_Systems Software_Management
+Partin	10	Docent	999999	partin123	Human-Computer_Interaction
+Perkins	4	Assistant	232323	perkins123	English
+Phelps	5	Lecturer	309599	phelps123	Data_Security
+Porshe	6	Lecturer	359833	porshe123	Programming Quality_Control
+Rash	4	Assistant	845130	rash123	Geometry
+Reynolds	8	Docent	345454	reynolds123	Physics Embedded_Systems
+Slonaker	4	Assistant	244444	slonaker123	Web_Programming
+Smith	10	Professor	475295	smith123	Human-Computer_Interaction Data_Security
+Stephens	7	Assistant	655655	stephens123	History
+Stuart	10	Docent	421472	stuart123	Mobile_Programming
+Swon	6	Docent	204014	swon123	Algorithms Declarative_Programming
+Tesla	5	Laborant	135791	tesla123	Physics
+Turner	15	Professor	875135	turner123	Web_Programming Data_Security
+Whitecotton	5	Docent	273934	whitecotton123	Operating_Systems Software_Management
+Wilson	15	Professor	482944	wilson123	Electronics Embedded_Systems Internet_of_Things
+Wynona	5	Assistant	211111	wynona123	Operating_Systems

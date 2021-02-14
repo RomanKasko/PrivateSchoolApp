@@ -1,0 +1,22 @@
+1 Programming                01/09/2020 31/05/2021 Mon Wed Fri 
+1 Geometry                   01/09/2020 31/05/2021 Tue Thu Fri  
+1 Physics                    01/09/2020 31/05/2021 Fri Mon	
+1 History                    01/09/2020 31/01/2021 Tue Thu
+1 English                    01/09/2020 31/05/2021 Wed Thu Mon
+2 Algorithms                 01/09/2020 31/05/2021 Mon Wed Fri
+2 Electronics                01/09/2020 31/05/2021 Tue Thu Fri
+2 Teamwork                   01/09/2020 31/05/2021 Fri Mon
+2 Operating_Systems          01/09/2020 31/05/2021 Tue Thu
+2 Web_Programming            01/09/2020 31/05/2021 Wed Thu Mon
+3 Data_Science               01/09/2020 31/05/2021 Mon Wed Fri
+3 Quality_Control            01/09/2020 31/05/2021 Tue Thu Fri
+3 Embedded_Systems 	     01/09/2020 31/05/2021 Tue Thu Fri
+3 Software_Management        01/09/2020 31/05/2021 Fri Mon
+3 Data_Security 	     01/09/2020 31/05/2021 Tue Thu
+4 Mobile_Programming         01/09/2020 31/05/2021 Mon Wed Fri
+4 Computer_Vision            01/09/2020 31/05/2021 Tue Thu Fri
+4 Declarative_Programming    01/09/2020 31/05/2021 Tue Thu
+4 Internet_of_Things         01/09/2020 31/05/2021 Wed Thu Mon
+4 Human-Computer_Interaction 01/09/2020 31/05/2021 Fri Mon
+1 Astronomy                  01/09/2020 21/11/2020 Mon Wed
+2 Startups                   31/05/2021 01/01/2022 Wed Fri
